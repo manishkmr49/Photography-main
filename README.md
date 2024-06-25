@@ -2,7 +2,7 @@
 
 Welcome to the Photography-main repository!
 
-![Screenshot](path/to/your/screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## About
 
